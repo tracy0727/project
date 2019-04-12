@@ -1,0 +1,270 @@
+{
+	"html_attributions": [],
+	"next_page_token": "CpQCDwEAAJwdqLU_q4CMC9j-DOFIiwmwpP8ICAF_lHHKpWrNLfYsLS0hubKFTbau5sp7Tc_vC2bftXqZSRfq4uMk34-nE1f3weBRv77ZvsUhQn1MvJCfW6pNFA6zrDP_lPLBQZVrGVePIGhW8g485WnZdAHUyKpr4jjJ6hiOh2R6MxVBTYHyRuy5mDa-NGx4zQXDsHGSejOPH6BmPUoyfb-2MmRo1kcYABkBZRAaXpDmTtoXLmX8GxELbMOOAjEJ8Vzxdk-4GQkzoDYB1YwHBR1JXzxlawX0DdUyaJKjLWGjvt8GOwF8d9KVTF0r528jDCheFjvRgxOGMeYq1IrUx9lBofHH4sAX2plD6BGumN40mdBkDKVMEhC8pyLxL6t51mflBEc_WkF6GhTsH0kHwldrZYDnyUZ78TU9zeiiqg",
+	"results": [{
+			"formatted_address": "3818 Sunset Blvd, Los Angeles, CA 90026, USA",
+			"geometry": {
+				"location": {
+					"lat": 24.152059,
+					"lng":  120.684065
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.09258172989272,
+						"lng": -118.2780556701073
+					},
+					"southwest": {
+						"lat": 34.08988207010728,
+						"lng": -118.2807553298927
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "1113d3dd7339f965caae39387dd808a9e877bc2e",
+			"name": "Flore Vegan",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 2336,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100540448898812651487/photos\">Roman Roze</a>"
+				],
+				"photo_reference": "CmRaAAAA69UVwaJnUQXQUSSX9IfB3b29opNIohkexsGAGoHTD5Lyg24lhpBtaiNlrgihstR-k7Su9Vgbc8-eE5qHEdeLVY1QTfiuyS9TPp3e2GMM_grW2FtrgrFQGtMJSeJ336cPEhCVHYfFzoOgrrKdXlk34rJiGhSXSv_XG1q1CtOrWJjWQrxJmLvIPg",
+				"width": 3504
+			}],
+			"place_id": "ChIJj62e80jHwoARusJT4mjohWw",
+			"price_level": 2,
+			"rating": 4.6,
+			"reference": "CmRbAAAAM9_YQ6Dt9T69zucczidzOd6HU2vmzaXvTG-lJ89KyBlJVBJ0aEfar2Exre4iDWKHjExUshYSpAXEzA-YqotVnOt4XznKY_vkD520XK5nzFz5v5IefUe6FDBqZPzYlxRDEhAgQvwzNjwC49WWlyoMKza5GhS6r-VIl1lXdMl_JEW67yL7fPkZdg",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "1700 Sunset Blvd, Los Angeles, CA 90026, USA",
+			"geometry": {
+				"location": {
+					"lat": 24.158521, 
+					"lng": 120.666085
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.07856197989273,
+						"lng": -118.2573112201073
+					},
+					"southwest": {
+						"lat": 34.07586232010728,
+						"lng": -118.2600108798928
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "d8bc8d867ccf72cbc552e100238a0820628963ee",
+			"name": "Sage Plant Based Bistro and Brewery Echo Park",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 3024,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105756638182226336287/photos\">Anurag Singhai</a>"
+				],
+				"photo_reference": "CmRaAAAAW6v0EyZa77vrG5Aq8zbnU1sR7pljqfoDpSxXhISFgWoYWLkFY5hh7YCFbzYLj1XzflTJOrCXJa-q5jPT4L0vMY8cjXrhCzB5y7Z--qJTWOO_NxaRUBbB5QhpxyUT-R6tEhBru_ZZ_xcCxFueYrRxI6pFGhRgiExnWWOhU2Ii_NnW6M8R4xs4IQ",
+				"width": 4032
+			}],
+			"place_id": "ChIJ6T9ggBvHwoARc3aegK3PBe0",
+			"price_level": 2,
+			"rating": 4.6,
+			"reference": "CmRbAAAAy5CT3sE8bRlADeIeMYtC7NRdE58vKOCjOvhZNUs0QwBD7kSS6WIfo3wmxvt4EGZm5TJ6WdqOCRSnnnFoXAVpz9F3EyZPosUDCN2LJIvtYxwS3BYkwh6uVQRSj-OPLak6EhBRf8xOpcuc5WWWBgGNbGGbGhSYiomy4iNV-g_KzzqNrpymm3MxQw",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "8284 Melrose Ave, Los Angeles, CA 90046, USA",
+			"geometry": {
+				"location": {
+					"lat": 24.181921,
+					"lng": 120.646425
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.08495787989272,
+						"lng": -118.3688093201073
+					},
+					"southwest": {
+						"lat": 34.08225822010727,
+						"lng": -118.3715089798927
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "8529e7504ec45e2f380310882a3bd05fe050d701",
+			"name": "Crossroads Kitchen",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 446,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105056983516844525128/photos\">Crossroads Vegan Restaurant</a>"
+				],
+				"photo_reference": "CmRaAAAAeNvmtrTLNo95XHaHxur4Lc3CSCbtl8zUk1cbjlFdDSpMupFJ0LXRP7iaqHQeP0N8srb3P9NzwI0jrASIvj7dn-8b0KkmjvgeAmETi9sDAEwQVOui2yIJd5yzzJN3LD_bEhCCaBWZ_g1fJHyzVzz9c18eGhTSCsqJIwmOF_xRWfhPBoFUO86y1A",
+				"width": 720
+			}],
+			"place_id": "ChIJhZy9Gba-woARQLEEpEN46uw",
+			"price_level": 3,
+			"rating": 4.5,
+			"reference": "CmRbAAAAU-AZsWP9B3I6f7bIB2lho68meak73rt_fxdoJug-tXoqRil2guPjWxQmycp2dPFKXZNG5azOwT-rEy9vJtXQf44uVj45j_ohS6ietOXClyyAppqZt_ngGVISdtcNvrFaEhDYSDnUEsrd7GxTol1wHfJ4GhRsQAnur588F9jnXy0S4IYaiaEAQA",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "4319 Sunset Blvd, Los Angeles, CA 90029, USA",
+			"geometry": {
+				"location": {
+					"lat": 24.113340, 
+					"lng": 120.652279
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.09646662989272,
+						"lng": -118.2818451701072
+					},
+					"southwest": {
+						"lat": 34.09376697010727,
+						"lng": -118.2845448298927
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "287049135d7d1ab1bfd2de8d7654afcc97cfee77",
+			"name": "My Vegan Gold",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 667,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117593961088704552381/photos\">Sayamon Riddang</a>"
+				],
+				"photo_reference": "CmRaAAAABpfiLbCymEfhpZDl0vsV5ZjC7UDVT-GQAryHJkQ1rZHakstWk4Cugb0HrxU3dsdqbjxvKU9gxVHsZjxToVuMwRw_dHWdwIPFNl-VGYtipa8Z6Uzf6RzmS2tDje45jzTREhD1E_zkXr3Z6v8wWLzDDxwlGhS8VB8VsaT96ycvEwdkjhzmNKSfDg",
+				"width": 1000
+			}],
+			"place_id": "ChIJh6ttFUzHwoAR9p8Wi_B8AbI",
+			"price_level": 2,
+			"rating": 4.6,
+			"reference": "CmRbAAAAUR_MLHOu0gPb-77cvoygt4blzXX2PtoI7PRfh8mqqOgx8MPgpclf8PcfCXkEvAfDxu4wafz5l1jBDTPTntDz3Epf0dJxilKvshezCkwMXdlIoZjBZwW8n6BMU5WKGCjXEhBd8OVC5aJ7Qc_S3skTq1KnGhQNTUFaUZAnY5r37iUSLCT59zfhrw",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "4442, 1769 Hillhurst Ave, Los Angeles, CA 90027, United States",
+			"geometry": {
+				"location": {
+					"lat": 24.136021,
+					"lng": 120.681068
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.10468952989272,
+						"lng": -118.2861405701073
+					},
+					"southwest": {
+						"lat": 34.10198987010727,
+						"lng": -118.2888402298927
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "1401d50571af0bd7fc0267e6a3635bfb3d3dbda2",
+			"name": "Green Leaves Vegan",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 3168,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/118194982700766373715/photos\">Carl Afable</a>"
+				],
+				"photo_reference": "CmRaAAAAz4NOaoeJczV-BFF7HYE-unBeYl8bud0vmkVtYxCv-lKLYo1YnAgcf-Cisr4BQypE9WbaUwm157PYyxLkWkQ1CwVcP7bXtV6QAdNegOXB8QlWAEPR95Q6lm4NQ71B3Vm2EhD2nTXqDhitEm0BrjyRh3JxGhRYCJXLJCF4AWJiBXk5fcdcjylX_g",
+				"width": 4752
+			}],
+			"place_id": "ChIJ2RKN_rHAwoARIGWYxAgzzyQ",
+			"price_level": 1,
+			"rating": 4.5,
+			"reference": "CmRbAAAAtM6n50gnrmJYk2qR_1uslm5ILIFgla8_RVtkm5pLzg9pMV-UcNQ3LzYSc6iM2vm6rbIzSvmjYMvWZ0Qy0AnVyIhb0kYHi1HpNFbYF3aD5cxH2hyHuB9qbn_OY_7vTpWEEhDTEJ002c2Pt-QTBNerb9iOGhRnv28Ti7KlI3gYVtBKG5XKOju9Zg",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "707 E 10th St, Los Angeles, CA 90021, USA",
+			"geometry": {
+				"location": {
+					"lat": 24.143455, 
+					"lng": 120.662440
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.03709272989273,
+						"lng": -118.2499997201073
+					},
+					"southwest": {
+						"lat": 34.03439307010728,
+						"lng": -118.2526993798928
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "01c75569ea2c5ee7ae29e91990ff4d872bc1ca5b",
+			"name": "The Vegan Joint",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 680,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/106918371964521288041/photos\">The Vegan Joint (Downtown)</a>"
+				],
+				"photo_reference": "CmRaAAAAGdHRzCGTwQ0_tc-fWo9wfezr51jbxPQ7IH1Gsc9OCRxoIijxg110YoNAaCTQSefXtCVdiH2xYcifKokVtnwxp01tE6J888NxT_MA1zpzxiM5ZM3MgJ9OxeJERDyE8jT0EhBSS5kv0YX7tmAxiUFHPOEXGhT2ZyiB6uRAfzpKchXvfOxyvA7S2Q",
+				"width": 1906
+			}],
+			"place_id": "ChIJL8eKojLGwoAR-inFlT4uF8Q",
+			"rating": 4.5,
+			"reference": "CmRbAAAAPj4xP0HMJoDhx-P7C2JZTRSxu44XKoALQqupq2WaiqDjqiqi7g1ua7imgENWEH_fXu8XS5XxAmpkYV4XcDWfbLeZFuOKbgNGIvxQhXBhL-215hJQvoHFodeO9_lCGliNEhC6QZwCTKktRp33eibHgQJyGhRZf9Z_PHxTO-dxhjCFmIY8KQUYlQ",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		}
+	],
+	"status": "OK"
+}
