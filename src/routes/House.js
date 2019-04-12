@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
 import Marker from '../components/Maker';
 import LOS_ANGELES_CENTER from '../const/la_center';
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
 const getMapBounds = (map, maps, places) => {
     const bounds = new maps.LatLngBounds();
   
