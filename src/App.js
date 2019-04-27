@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+// 用不到就註解，或移除。
+// import logo from './logo.svg';
 import './App.css';
 
 import Product from './routes/Product'
@@ -16,11 +17,11 @@ import ProductServices from './services/Product'
 class App extends Component {
   constructor() {
     super();
-    this.state={
+    this.state = {
       products: [],
       list: [],
-      banners:[],
-      test:'',
+      banners: [],
+      test: '',
     }
     this.getProducts();
     this.getBanners();
@@ -33,14 +34,14 @@ class App extends Component {
     const products = await ProductServices.get();
     this.setState({ products });
   }
-  
-  renderRoute(props,name){
-    switch(name){
+
+  renderRoute(props, name) {
+    switch (name) {
       default:
-      case 'Home': return <Home {...props} products={this.state.products} onAdd={this.add} banners={this.state.banners}/>
-      case 'Product': return <Product {...props} products={this.state.products} onAdd={this.add}/>
-      case 'About': return <About {...props} products={this.state.products} list={this.state.list} onRemove={this.remove}/>
-      case 'House' :return <House {...props} products={this.state.products} list={this.state.list} onRemove={this.remove}/>
+      case 'Home': return <Home {...props} products={this.state.products} onAdd={this.add} banners={this.state.banners} />
+      case 'Product': return <Product {...props} products={this.state.products} onAdd={this.add} />
+      case 'About': return <About {...props} products={this.state.products} list={this.state.list} onRemove={this.remove} />
+      case 'House': return <House {...props} products={this.state.products} list={this.state.list} onRemove={this.remove} />
     }
     // return <Component {...props} products={this.state.products} list={this.state.list}/>
   }
@@ -70,7 +71,7 @@ class App extends Component {
     //  console.log(findAgeThan5)
     // const list = this.state.list;
     // list.push({ ...name, status: false });
-     this.setState({ list });
+    this.setState({ list });
   }
 
   remove = (key) => {
@@ -82,11 +83,11 @@ class App extends Component {
       <Router>
         <div className="App">
           <Header list={this.state.list} />
-          <Route path="/" exact render={(props) => this.renderRoute(props,'Home')} />
-          <Route path="/about" render={(props) => this.renderRoute(props,'About')} />
-          <Route path="/product/:id" render={(props) => this.renderRoute(props,'Product')}/>
-          <Route path="/product/" exact render={(props) => this.renderRoute(props,'Product')}/>
-          <Route path="/house" render={(props) => this.renderRoute(props,'House')}/>
+          <Route path="/" exact render={(props) => this.renderRoute(props, 'Home')} />
+          <Route path="/about" render={(props) => this.renderRoute(props, 'About')} />
+          <Route path="/product/:id" render={(props) => this.renderRoute(props, 'Product')} />
+          <Route path="/product/" exact render={(props) => this.renderRoute(props, 'Product')} />
+          <Route path="/house" render={(props) => this.renderRoute(props, 'House')} />
           <Footer />
         </div>
       </Router>
